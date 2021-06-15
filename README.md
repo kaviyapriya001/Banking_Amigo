@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="250" height="250" src="./public/images/Helen-Intro.png" alt="Banking Amigo">
+
   <h2>Banking Amigo</h2>
 </p>
 
